@@ -1,0 +1,14 @@
+.Profile_Cart {
+    text-align: right;
+    margin-right: 20px;
+    margin-top: -10px; 
+ }
+
+.proimage{
+    margin-right: 10px;
+  }
+
+.alignment{
+  display: flex;
+  justify-content: center;
+}
